@@ -1,0 +1,10 @@
+[package]
+name = "ratatui-one"
+version = "0.1.0"
+authors = ["andi.mache <amache75@gmail.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.27.0"
+tui-menu = "0.2.2"
